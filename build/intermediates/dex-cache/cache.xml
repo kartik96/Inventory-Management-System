@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_42ade0cccda0d50b5a1b33782c9af7ccacb18d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_88a15f1765b515e93fc16f4b842ce98d4c7468f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_7bc834c27ee0aa97e92814fd01b8da8e1907c7ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_83331fcfb99f9770da0bcc68e4f43ba5c0d3c6c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_82f1691e23fbd09e176340d1deb5ac716c8a3074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_bb51566428b7fa6836925fe1c6a2385a67cec1a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_ae3f2d5d84d53b605dff7bba8fbe9f7fbb78d197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d83ac897850357cb32de301ae5b84c76ac5cf304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c0c47aa71894e20da73e7c94e9802047a2b3c47e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_f080f8eab23f5a4c76de7aa81aca7a9dba602128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e7c6d43b4d5fc7e72664d0eec917b8b50128e685\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_7d85142f6a384e8d744bce6d4d9fcda404b530e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_940d9d00c8881170ba12be62e8085634bf98190a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_fdf03d9d408ac29762bd4f0b8739f452a1a2e67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_096eaca89524d9d3cb87591fd10c1c510bc8bb82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.0.2_47143e7820226519247909ce77ebb843b3dee45c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_364ddbf96ea8e1f223acd49adbf2b16abfa9dec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.0_3c8b0eebc380853721608dd59227d4a202c93fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_84c6c9ff853f9c09123f4203a9e2c6a51af6d2a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_ad95c8215ff656c9a7b238c6e3977a2837ed7faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_81ae52a5107f090a18ac3adab618184d7875ef23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_0cdd14f3eb9cf6571878d2a3d0b2f291f4c47666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_3b6242bb17cf85d5a50a2b382e166f74e95270be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_87fa356ee96bd27251cb36a1236ae86e51db0b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_36ba709f232d8d2acbd0386857ddab0177216764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_d78b221d23277a0728b7f7fa92b10cf47319d7d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_1c1bbb8e0cdc4a1a6a47b539a822197204d391c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="56a21936a19ae9b4213c0ec8c22db91be441148d">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c50af5a4af6bc255318c0d3848d8653098da2f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Kartik\AndroidStudioProjects\barcode\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_bdab516c4485fb7fffd53158b9e58680d4f37eb8\classes.dex" />
+    </item>
+
+</items>
