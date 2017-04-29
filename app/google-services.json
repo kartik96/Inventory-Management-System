@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656039358896",
+    "firebase_url": "https://barcode-75980.firebaseio.com",
+    "project_id": "barcode-75980",
+    "storage_bucket": "barcode-75980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656039358896:android:6500fe4fb18d7d3b",
+        "android_client_info": {
+          "package_name": "com.kartik.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656039358896-evtuh98jkv4rihhrkb57o3fjc468qoj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartik.barcode",
+            "certificate_hash": "9592954871F7D91581CCEDB15A298616FDE7A1D1"
+          }
+        },
+        {
+          "client_id": "656039358896-qmr9vikh99rqvklfts3eiimsksebgddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6v1UcWT3PxOTSnLEI9bo3Tt-zd0QoVIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656039358896-qmr9vikh99rqvklfts3eiimsksebgddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

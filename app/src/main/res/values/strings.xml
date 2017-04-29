@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">barcode</string>
+    <string name="InventoryManagement">Inventory Management</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
