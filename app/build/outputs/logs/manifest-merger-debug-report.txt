@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:9:5-43:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:47:5-55:19
+MERGED from [com.android.support:design:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:30:5-59:19
+	android:label
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:12:9-52
+	android:supportsRtl
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:14:9-38
+activity#com.kartik.barcode.MainActivity
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:15:9-17:20
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:15:19-47
+activity#com.kartik.barcode.login
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:18:9-21:20
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:18:19-40
+activity#com.kartik.barcode.register
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:22:9-24:18
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:22:19-43
+activity#com.kartik.barcode.splash
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:25:9-31:24
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:25:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.kartik.barcode.records
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:32:9-45
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:32:19-42
+activity#com.kartik.barcode.display
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:33:9-45
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:33:19-42
+activity#com.kartik.barcode.details
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:34:19-42
+activity#com.kartik.barcode.chats
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:36:9-38:20
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:36:19-40
+meta-data#com.google.android.gms.version
+ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:40:9-42:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:42:13-66
+	android:name
+		ADDED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml:41:13-58
+uses-sdk
+INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:design:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/AndroidStudioProjects/barcode/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:27:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:30:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:35:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:38:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:41:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:43:5-45:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:45:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:44:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:48:9-54:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:50:13-45
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:51:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:52:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:54:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:53:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/AndroidManifest.xml:49:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/AndroidManifest.xml:29:13-58
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/kartik/AndroidStudioProjects/barcode/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:55:25-77
